@@ -23,7 +23,7 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">
             Copright @ 2024 Apple Inc. All rights reserved.
           </p>
-          <div className="flex">
+          <div className="flex flex-wrap">
             {footerLinks.map((link, i) => (
               <p key={link} className="font-semibold text-gray text-xs">
                 {link}{" "}
