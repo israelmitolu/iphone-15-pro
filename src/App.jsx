@@ -10,7 +10,7 @@ import SmoothScrolling from "./components/SmoothScrolling";
 const App = () => {
   return (
     <SmoothScrolling>
-      <main className="bg-black">
+      <main className="bg-black overflow-y-auto">
         <Navbar />
         <Hero />
         <Highlights />
