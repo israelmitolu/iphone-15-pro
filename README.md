@@ -1,6 +1,6 @@
 <div align="center">
 <h1>iPhone 15 Pro and iPhone 15 Pro Max</h1>
-<p>This is a clone of the iPhone 15 Pro and iPhone 15 Pro Max <a href="https://www.apple.com/iphone-15-pro/0">website</a></p>
+<p>This is a clone of the iPhone 15 Pro and iPhone 15 Pro Max <a href="https://www.apple.com/iphone-15-pro">website</a></p>
 </div>
 
 ## Snapshot 📸
